@@ -1,0 +1,73 @@
+html {
+    background-size: 100%;
+    min-height: 100%;
+
+    background-image: linear-gradient(to bottom right, #000044, #6699CC, #003366);
+  	
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 2em;
+    padding-top: 30px;
+    padding-left: 20px;
+    
+}
+
+body {
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+#description {
+    margin-top: 90px;
+    margin-left: 60px;
+    width: 500px;
+    display: inline-block;
+    clear: both;
+   
+}
+
+#signup_form {
+    width: 400px;
+    background-color: #c0c0c0;
+    height: 450px;
+    line-height: 2.5em;
+    padding: 40px;
+    float: right;
+    color: #003366;
+    margin-right: 50px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border-color: #6699cc;
+    border-width: 1.5px;
+    border-style: dashed;
+    white-space: nowrap;
+}
+
+h1 {
+    font-style: italic;
+}
+
+button {
+    color: #003366;
+}
+
+a:link {
+    color: #000044;
+}
+
+
+#footer {
+    overflow: hidden;
+    position: absolute;
+    font-size: small;
+    text-align: center;
+    position: fixed;
+    color: #ffffff;
+    padding: 5px;
+    line-height: 1.3em;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
